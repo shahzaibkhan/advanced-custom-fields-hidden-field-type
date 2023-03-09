@@ -1,5 +1,6 @@
 
 == Advanced Custom Fields - Hidden Field Type ==
+
 This plugin adds a new field type to Advanced Custom Fields (ACF) that allows you to create hidden input fields in your custom post types, pages or options pages. The field type is based on the existing ACF Text field, but it hides the input field and the label.
 
 == Installation ==
