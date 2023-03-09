@@ -1,0 +1,6 @@
+.acf-field-hidden .acf-input input[type="hidden"] {
+  display: block;
+}
+.acf-field.acf-field-hidden {
+  display: none;
+}
